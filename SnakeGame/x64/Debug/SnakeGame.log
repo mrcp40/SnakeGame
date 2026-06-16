@@ -1,0 +1,346 @@
+﻿  BFS.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“BFS.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“BFS.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“BFS.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“BFS.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“BFS.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“BFS.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“BFS.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“BFS.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\BFS.cpp(19,39): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\BFS.cpp(19,56): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  Draw.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Draw.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Draw.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Draw.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Draw.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“Draw.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Draw.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Draw.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“Draw.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Draw.cpp(34,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Draw.cpp(35,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Draw.cpp(75,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Draw.cpp(75,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Draw.cpp(77,38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Draw.cpp(78,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  GetNeighbours.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“GetNeighbours.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“GetNeighbours.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“GetNeighbours.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“GetNeighbours.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“GetNeighbours.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“GetNeighbours.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“GetNeighbours.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“GetNeighbours.cpp”)
+  
+  Interacion.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Interacion.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Interacion.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Interacion.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Interacion.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“Interacion.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Interacion.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Interacion.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“Interacion.cpp”)
+  
+  MainMenu.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“MainMenu.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“MainMenu.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“MainMenu.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“MainMenu.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“MainMenu.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“MainMenu.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“MainMenu.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“MainMenu.cpp”)
+  
+  RandomNode.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“RandomNode.cpp”)
+  
+  RedOrGreen.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RedOrGreen.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RedOrGreen.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RedOrGreen.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RedOrGreen.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“RedOrGreen.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RedOrGreen.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RedOrGreen.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“RedOrGreen.cpp”)
+  
+  Restart.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Restart.cpp(18,26): warning C4838: 从“int”转换到“float”需要收缩转换
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Restart.cpp(18,26): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Restart.cpp(18,42): warning C4838: 从“int”转换到“float”需要收缩转换
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Restart.cpp(18,42): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  SnakeGame.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“SnakeGame.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“SnakeGame.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“SnakeGame.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“SnakeGame.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“SnakeGame.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“SnakeGame.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“SnakeGame.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“SnakeGame.cpp”)
+  
+  Start.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Start.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Start.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Start.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Start.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“Start.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Start.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Start.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“Start.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Start.cpp(7,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Start.cpp(11,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  Update.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(87,34): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(87,47): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(92,25): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(92,42): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(93,25): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(93,42): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(94,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(97,22): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(97,35): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(98,22): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(98,35): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(102,21): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(102,34): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(103,21): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(103,34): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(126,157): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(126,180): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(132,24): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(132,41): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(133,24): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(133,41): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(134,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(137,21): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(137,34): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(138,21): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(138,34): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(141,20): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(141,33): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(142,20): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Update.cpp(142,33): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  main.cpp
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(10,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(16,8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\Node.h(70,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\SnakeGame\SnakeGame.h(38,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+  正在生成代码...
+  SnakeGame.vcxproj -> D:\Lasalle\S4\2D game\raylib\x64\Debug\SnakeGame.exe
